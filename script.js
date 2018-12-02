@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  const apiRoot = 'https://guarded-ravine-55549.herokuapp.com/v1/task/';
+  const apiRoot = 'https://guarded-ravine-55549.herokuapp.com/v1/';
   const trelloApiRoot = 'https://guarded-ravine-55549.herokuapp.com/v1/trello/';
   // const apiRoot = 'http://localhost:8080/v1/';
   // const trelloApiRoot = 'http://localhost:8080/v1/trello/';
